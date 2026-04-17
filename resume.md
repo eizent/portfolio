@@ -5,10 +5,8 @@ title: Resume
 
 **EDUCATION**
 UNIVERSITY OF GRONINGEN	Groningen, Netherlands
-MASTER OF ARTS | Thesis: Perceptions of Bicycle Safety in Groningen Using GIS		2023-2024
-Communications, Digital Humanities 
-BRYN MAWR COLLEGE	Pennsylvania, United States
-BACHELOR OF ARTS, Magna cum laude | Thesis: Why We Wear What We Wear	2019-2023
+MASTER OF ARTS | Thesis: Perceptions of Bicycle Safety in Groningen Using GIS		2023-2024 Communications, Digital Humanities 
+BRYN MAWR COLLEGE	Pennsylvania, United States BACHELOR OF ARTS, Magna cum laude | Thesis: Why We Wear What We Wear	2019-2023
 Anthropology Major and Data Science Minor
  
 **PROFESSIONAL EXPERIENCE**
