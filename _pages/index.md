@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: single
 author-profile: true
 title: About
 ---
