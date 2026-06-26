@@ -18,15 +18,21 @@ September 2019–May 2023
 
 ## Professional Experience
 
+### Instructional Designer
+
+Nevada Online, University of Nevada, Reno
+August 2026-Future
+
 ### Educational and Scholarly Technology Assistant
 
 Library and Information Technology Services, Bryn Mawr College  
-August 2024–Present
+August 2024–July 2026
 
 - Deliver workshops on GIS, digital scholarship, Learning Management Systems, and AI literacy for faculty, students, and staff.
 - Collaborate with graduate school faculty and administrators to redesign social work courses for online delivery through organizing content modules on Moodle (campus LMS), ensuring alignment between materials and learning objectives, and consulting on use of educational tools to use within their courses
 - Consult with faculty one-on-one for effective Moodle course design and educational technology tool integration
--  Provide technical support by promptly diagnosing, troubleshooting, and resolving 200+ Help Desk tickets on TeamDynamix regarding educational technology, including Moodle/Zoom/Panopto/Teams/Microsoft 365 account issues, errors, and bugs
+- Provide technical support by promptly diagnosing, troubleshooting, and resolving 200+ Help Desk tickets on TeamDynamix regarding educational technology, including Moodle/Zoom/Panopto/Teams/Microsoft 365 account issues, errors, and bugs
+
 ---
 
 ## Digital Projects
