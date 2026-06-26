@@ -1,18 +1,9 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 author_profile: true
 ---
 
-I’m currently working as an Educational and Scholarly Technology Assistant at Bryn Mawr College. In my role, I help to administer Moodle, Zoom, ArcGIS and other platforms, answer Help Desk tickets related to EAST, staff and host open hours in the Makerspaces and the Digital Media and Collaborations lab, as well as support and manage Digital Bryn Mawr or other class projects. I graduated from Bryn Mawr in 2023 with a major in Anthropology, a minor in Data Science. I went on to the University of Groningen in the Netherlands and received my master’s in Digital Humanities. For my master thesis, I honed my GIS skills and analyzed the perceptions of bicycle safety in the province of Groningen.
+## Hello 
+I am an Educational Technologist and Instructional Designer working in higher education. I have a Master of Arts in Digital Humanities from the University of Groningen and a Bachelor of Arts in Anthropology and Data Science from Bryn Mawr College. I have a specific interest in Geographic Information Systems and mapping, as well as online course development and LMS administration. 
 
-Some of my professional and personal interests include:
-
-Geographic Information Systems (GIS) and Cartography
-Instructional Design
-Universal Design for Learning
-Critical Making and Digital Fabrication Tools
-Moodle! (check out an article I helped write!)
-Bikeable and Walkable Cities!
+Please check out my [resume]({% link path/to/resume.md %}) and my [portfolio]({% link path/to/portfolio.md %}) to see samples of my instructional design and digital scholarship work. 
