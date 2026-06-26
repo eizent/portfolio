@@ -1,0 +1,7 @@
+---
+layout: single
+---
+
+{%- assign locale = page.locale | default: layout.locale | default: site.locale %}
+
+{{ content }}
