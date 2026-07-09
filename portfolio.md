@@ -18,6 +18,8 @@ title: Porfolio
 - [Introduction to GIS for Data Science](https://docs.google.com/presentation/d/1MuHcDawJfkBuuMGoo1MWzOmDd5BS5HKsP-9QgyAQHm0/edit?usp=sharing){:target="_blank"}
 - [Web Mapping: Leaflet and Allmaps](https://docs.google.com/presentation/d/1-id18rQ0FUNhwV8AfBxwPyKi5mClvomZ7Vm1pVJqgZk/edit?usp=sharing){:target="_blank"}
 - [ArcGIS StoryMaps](https://docs.google.com/presentation/d/1pt3dwKD5fPHs3A4_WBeYk8HjopVFB0j7h_SsLxhahMw/edit?usp=sharing){:target="_blank"}
+
+
 ---
 
 
