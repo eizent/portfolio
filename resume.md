@@ -9,6 +9,8 @@ classes: wide
 May 2023 - July 2024
 ### Bryn Mawr College, Pennsylvania  | BA in Anthropology and Data Science
 September 2019–May 2023
+
+
 ---
 
 ## Professional Experience
