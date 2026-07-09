@@ -1,31 +1,20 @@
 ---
-layout: posts
+layout: single
 title: Resume
+classes: wide
 ---
 
 ## Education
-
-### Univeristy of Groningen, Netherlands
-MA in Digital Humantities
+### Univeristy of Groningen, Netherlands | MA in Digital Humantities
 May 2023 - July 2024
-
-### Bryn Mawr College, Pennsylvania 
-Bachelor of Arts in Anthropology and Data Science
-Magna cum laude 
+### Bryn Mawr College, Pennsylvania  | BA in Anthropology and Data Science
 September 2019–May 2023
-
 ---
 
 ## Professional Experience
-
-### Instructional Designer
-Nevada Online, University of Nevada, Reno
-
+### Instructional Designer | Nevada Online, University of Nevada, Reno
 August 2026-Future
-
-### Educational and Scholarly Technology Assistant
-Library and Information Technology Services, Bryn Mawr College  
-
+### Educational and Scholarly Technology Assistant | Library and Information Technology Services, Bryn Mawr College  
 August 2024–July 2026
 
 - Deliver workshops on GIS, digital scholarship, Learning Management Systems, and AI literacy for faculty, students, and staff.
