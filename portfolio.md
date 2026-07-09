@@ -1,6 +1,8 @@
 ---
-layout: posts
+layout: single
 title: Porfolio
+classes: wide
+author_profile: true
 ---
 
 ## Instructional Design 
