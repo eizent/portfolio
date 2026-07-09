@@ -2,6 +2,7 @@
 layout: single
 title: Resume
 classes: wide
+author_profile: true
 ---
 
 ## Education
