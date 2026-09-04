@@ -7,9 +7,12 @@ author_profile: true
 
 ## Instructional Design 
 
-- Accessibility Basics
-- GSSW Style Guide
-- GSSW Faculty Consultation
+- **Accessibility Basics**
+
+- **GSSW Style Guide**
+
+- **GSSW Faculty Consultation**
+Throughout this project, I served a primary point of contact for the faculty course developers as well as administrative support staff at the Graduate School of Social Work. 
 - GSSW Course Redesign for SME
 
 ---
@@ -39,6 +42,11 @@ author_profile: true
 
 *About the Project*: This goal of this project was to create a digital collection of locations in Philadelphia tied to the legacy of transnational Italian culture researched by students in the Fall 2025 course 'ITAL B240 Philadelphia the Global City: The Italian Legacy across Time'. The website features an interactive map of key locations, artworks, and other points of interest related to the Italian legacy in Philadelphia along with student research on each point of interest. 
 
-[**Bicycle Crash Dashboard in Philadelphia**](https://brynmawrcollege.maps.arcgis.com/apps/dashboards/e7eb4cad52de4dda897aabed168cefbb#){:target="_blank"}
+**Paul Thomas Annotated** ([ptannotated.com]{:target="_blank"})
+*Role*: Web Map Feature Developer
+
+*About the Project*: Paul Thomas Anderson: in the Margins is an open access resource devoted to the filmography of Paul Thomas Anderson, involving annotated screenshots of the director's 10 films. My contribution to the project was compiling and organizing geographic data of filming locations as well as creating a Map Feature for the site. I customized the Leaflet.js web map to suit the project needs, including adding a functional legend, adjusting the pop-ups, and adapting the structure of the CollectionBuilder site to include the map data as a secondary collection to the primary collection of screenshots. 
+
+[Bicycle Crash Dashboard in Philadelphia](https://brynmawrcollege.maps.arcgis.com/apps/dashboards/e7eb4cad52de4dda897aabed168cefbb#){:target="_blank"}
 
 ---
