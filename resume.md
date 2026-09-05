@@ -8,9 +8,11 @@ author_profile: true
 ## Education
 ### University of Groningen, Netherlands | MA in Digital Humantities
 May 2023 - July 2024
+
 Thesis: Analyzing Perceptions of Bicycle Safety in Groningen using GIS
 ### Bryn Mawr College, Pennsylvania  | BA in Anthropology and Data Science, magna cum laude
 September 2019–May 2023
+
 Thesis: Why We Wear What We Wear
 
 
