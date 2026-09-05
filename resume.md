@@ -6,22 +6,30 @@ author_profile: true
 ---
 
 ## Education
-### Univeristy of Groningen, Netherlands | MA in Digital Humantities
+### University of Groningen, Netherlands | MA in Digital Humantities
 May 2023 - July 2024
-### Bryn Mawr College, Pennsylvania  | BA in Anthropology and Data Science
+Thesis: Analyzing Perceptions of Bicycle Safety in Groningen using GIS
+### Bryn Mawr College, Pennsylvania  | BA in Anthropology and Data Science, magna cum laude
 September 2019–May 2023
+Thesis: Why We Wear What We Wear
 
 
 ---
 
 ## Professional Experience
 ### Instructional Designer | Nevada Online, University of Nevada, Reno
-August 2026-Future
+August 2026-Present
+
+- Serve as the project manager for development of assigned online courses
+- Ensure and revise lecture materials, including PowerPoints, handouts, and videos so they are WCAG level AA or AAA accessible
+- Communicate with the Faculty Course Developer, Instructional Technologist, and Multimedia Producer
+- Consult on course design and course alignment through setting strategic learning outcomes, media planning, and course mapping
+
 ### Educational and Scholarly Technology Assistant | Library and Information Technology Services, Bryn Mawr College  
 August 2024–July 2026
 
-- Deliver workshops on GIS, digital scholarship, Learning Management Systems, and AI literacy for faculty, students, and staff.
-- Collaborate with graduate school faculty and administrators to redesign social work courses for online delivery through organizing content modules on Moodle (campus LMS), ensuring alignment between materials and learning objectives, and consulting on use of educational tools to use within their courses
+- Develop and facilitate workshops on GIS, digital scholarship, Moodle, and AI literacy for faculty, students, and staff.
+- Collaborate with graduate school faculty and administrators to redesign social work courses for their pilot online degree program through organizing content modules on Moodle (campus LMS), ensuring alignment between materials and learning objectives, and consulting on use of educational technology tools to use within their courses
 - Consult with faculty one-on-one for effective Moodle course design and educational technology tool integration
 - Provide technical support by promptly diagnosing, troubleshooting, and resolving 200+ Help Desk tickets on TeamDynamix regarding educational technology, including Moodle/Zoom/Panopto/Teams/Microsoft 365 account issues, errors, and bugs
 
@@ -29,7 +37,7 @@ August 2024–July 2026
 
 ## Skills
 
-- **Instructional Design:** Learning Management System administration and course development, faculty consultation
+- **Instructional Design:** Learning Management System administration and course development, faculty consultation, course mapping, alignment
 - **Digital Scholarship:** GIS, Web development (including web accessibility), Digital fabrication/Makerspace, AI literacy  
 - **Natural Languages:** English (native), Dutch (native), Spanish (advanced intermediate)
 - **Computer Languages:** Python, HTML, CSS, JavaScript  
