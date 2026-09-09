@@ -7,7 +7,9 @@ author_profile: true
 
 ## Instructional Design 
 
-- **Accessibility Basics**
+- [**Accessibility Basics**](/pages/accessibility.md) 
+
+I helped our Assistive Technology Specialist at Bryn Mawr redesign her Accessibility Basics course for all incoming freshman to take as a part of orientation. My redesign of the Moodle course increased overall student engagement and completion of the course, with more students passing the final assignment the first time. 
 
 - **GSSW Style Guide**
 
@@ -16,13 +18,14 @@ I had the pleasure of working on the pilot program for Bryn Mawr College's Gradu
 - **GSSW Faculty Consultation**
 
 Throughout this project, I served a primary point of contact for the faculty course developers as well as administrative support staff at the Graduate School of Social Work. 
+
 - **GSSW Course Redesign for SME**
 
 ---
 
 ## Workshop Materials 
 
-Throughout my time as an EAST Assistant at Bryn Mawr College, I developed and delivered workshops related to GIS for our [Digital Scholarship program](https://digitalscholarship.blogs.brynmawr.edu/) to a wide range of audiences. I presented workshops in Professor Dirk Kinsey's Advanced GIS course, Professor Anjali Thapar's Introduction to Data Science Course, as well as did a three part series for Professor Nora Taplin-Kaguru's Sociology Course. In addition, I frequently held workshops that were open to the wider Bryn Mawr community, and had a range of student, staff, and faculty attendees. Please see samples of my workshop materials and slides below and contact me if you would like to use or adapt materials!
+Throughout my time as an EAST Assistant at Bryn Mawr College, I developed and delivered workshops related to GIS for our [Digital Scholarship program](https://digitalscholarship.blogs.brynmawr.edu/){:target="_blank"} to a wide range of audiences. I presented workshops in Professor Dirk Kinsey's Advanced GIS course, Professor Anjali Thapar's Introduction to Data Science Course, as well as did a three part series for Professor Nora Taplin-Kaguru's Sociology Course. In addition, I frequently held workshops that were open to the wider Bryn Mawr community, and had a range of student, staff, and faculty attendees. Please see samples of my workshop materials and slides below and contact me if you would like to use or adapt materials!
 
 - [Advanced GIS Workshop](https://docs.google.com/presentation/d/1af7yD8u8oT1bIPt3WU1c1eqBP1DDcaRA2WEdQ9yYlOg/edit?usp=sharing){:target="_blank"}
 - [Introduction to GIS for Data Science](https://docs.google.com/presentation/d/1MuHcDawJfkBuuMGoo1MWzOmDd5BS5HKsP-9QgyAQHm0/edit?usp=sharing){:target="_blank"}
@@ -52,6 +55,10 @@ Throughout my time as an EAST Assistant at Bryn Mawr College, I developed and de
 
 *About the Project*: Paul Thomas Anderson: in the Margins is an open access resource devoted to the filmography of Paul Thomas Anderson, involving annotated screenshots of the director's 10 films. My contribution to the project was compiling and organizing geographic data of filming locations as well as creating a Map Feature for the site. I customized the Leaflet.js web map to suit the project needs, including adding a functional legend, adjusting the pop-ups, and adapting the structure of the CollectionBuilder site to include the map data as a secondary collection to the primary collection of screenshots. 
 
-[Bicycle Crash Dashboard in Philadelphia](https://brynmawrcollege.maps.arcgis.com/apps/dashboards/e7eb4cad52de4dda897aabed168cefbb#){:target="_blank"}
+[**Bicycle Crash Dashboard in Philadelphia**](https://brynmawrcollege.maps.arcgis.com/apps/dashboards/e7eb4cad52de4dda897aabed168cefbb#){:target="_blank"}
+
+*Role*: Developer 
+
+*About the Project*: This was a personal project based as an extension of my interest in bicycle safety. For this project, I used crash data from OpenDataPhilly as well as mapping the bike network (designated roads and bike lanes) within Philadelphia. I used an ArcGIS interactive Dashboard to represent the locations of crashes that had at least one cyclist. 
 
 ---
