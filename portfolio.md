@@ -5,10 +5,9 @@ classes: wide
 author_profile: true
 ---
 
-On This Page:
-* TOC {:toc}
+* TOC
+{:toc}
 
-  
 ## Instructional Design 
 
 - [**Accessibility Basics**](_pages/accessibility.md) 
