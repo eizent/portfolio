@@ -6,9 +6,9 @@ author_profile: true
 ---
 
 On This Page:
-- [Instructional Design Work](Instructional Design)
-- [Workshop Materials](Workshop Materials)
-- [Digital Projects](Digital Projects)
+- [Instructional Design Work](#instructional-design)
+- [Workshop Materials](#workshop-materials)
+- [Digital Projects](#digital-projects)
 
   
 ## Instructional Design 
