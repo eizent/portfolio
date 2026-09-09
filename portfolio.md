@@ -5,9 +5,13 @@ classes: wide
 author_profile: true
 ---
 
+On This Page:
+* TOC {:toc}
+
+  
 ## Instructional Design 
 
-- [**Accessibility Basics**](/pages/accessibility.md) 
+- [**Accessibility Basics**](_pages/accessibility.md) 
 
 I helped our Assistive Technology Specialist at Bryn Mawr redesign her Accessibility Basics course for all incoming freshman to take as a part of orientation. My redesign of the Moodle course increased overall student engagement and completion of the course, with more students passing the final assignment the first time. 
 
@@ -15,11 +19,9 @@ I helped our Assistive Technology Specialist at Bryn Mawr redesign her Accessibi
 
 I had the pleasure of working on the pilot program for Bryn Mawr College's Graduate School of Social Work first fully online degree. As the degree would be fully online and targeted towards non-traditional students, I wanted to create a course design that was easy to understand, reduced cognitive load, and made assignments, content, and activities clear. 
 
-- **GSSW Faculty Consultation**
+- **GSSW Faculty Consultation and Course Redesign**
 
 Throughout this project, I served a primary point of contact for the faculty course developers as well as administrative support staff at the Graduate School of Social Work. 
-
-- **GSSW Course Redesign for SME**
 
 ---
 
