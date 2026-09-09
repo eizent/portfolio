@@ -5,9 +5,12 @@ classes: wide
 author_profile: true
 ---
 
-* TOC
-{:toc}
+On This Page:
+- [Instructional Design Work](Instructional Design)
+- [Workshop Materials](Workshop Materials)
+- [Digital Projects](Digital Projects)
 
+  
 ## Instructional Design 
 
 - [**Accessibility Basics**](_pages/accessibility.md) 
